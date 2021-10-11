@@ -6,4 +6,7 @@ some description
 
 watch tutorial on youtube
 
-# checking that git works 
+# local develope
+
+start using branch
+
