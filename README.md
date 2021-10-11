@@ -1,9 +1,1 @@
-# Demo
-
-some description
-
-# subheader
-
-watch tutorial on youtube
-
-# checking that git works 
+version 1 compare branches
