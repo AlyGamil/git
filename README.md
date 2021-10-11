@@ -6,7 +6,7 @@ some description
 
 watch tutorial on youtube
 
-# local develope
+# local develop
 
 start using branch
 
